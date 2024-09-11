@@ -1,1 +1,1 @@
-C_{RC,AB}T_itimeOfBreathVolume% RCiMSSE_{flow}AgeWaist SizeMSSE_{RC}loadOrderCTBody fatlagCoef_{0.25}VR_{AB}Visceral fatActiveDaysHeightLabelMuscleC_{del_RC,del_AB}TP_{RC,0}MSSE_{AB}Chest CircunferenceC_{flow,AB}C_{flow,del_RC}
+Waist SizeChest CircunferenceloadOrderCTC_{flow,AB}Visceral fatT_i% RCiMuscleTP_{RC,0}lagCoef_{0.25}LabelVolumeAgeC_{RC,AB}MSSE_{flow}C_{del_RC,del_AB}Body fatActiveDaystimeOfBreathMSSE_{AB}C_{flow,del_RC}HeightMSSE_{RC}VR_{AB}
